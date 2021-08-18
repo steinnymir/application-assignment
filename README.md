@@ -1,2 +1,2 @@
-# FARImat-application-assignment
-Assignment for Job application at FAIRmat
+# application-assignment
+Simulation of an electric circuit using asynchronous excecution.
